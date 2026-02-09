@@ -29,6 +29,3 @@ Since this is a developer tool, you install it as an "Unpacked Extension":
 4.  Click **Load unpacked**.
 5.  Select the folder containing `manifest.json`.
 6.  Go to any site with ads (e.g., cnn.com) and click the extension icon.
-
----
-**License:** MIT
